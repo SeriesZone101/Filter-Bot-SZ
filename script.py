@@ -48,19 +48,19 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @VKPROJECTS</b>
+<b>© @DeepakV111</b>
 """
 
 
     ABOUT_MSG = """⭕️<b>My Name : Filter Bot</b>
 
-⭕️<b>Creater :</b> <a href='https://t.me/VivekTVP'>Vivek</a>
+🧑‍💻<b>Creater :</b> <a href='https://t.me/DeepakV111'>Joey</a>
 
-⭕️<b>Updates :</b> <a href='https://t.me/VKPROJECTS'>VK PROJECTS</a>    
+📜<b>Code :</b> <a href='https://github.com/SeriesZone101/Filter-Bot-SZ'>Filter Bot</a>    
 
-⭕️<b>Language :</b> <code>Python3</code>
+🔰<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Server :</b> <a href='https://herokuapp.com/'>Heroku</a>    
+📶<b>Server :</b> <a href='https://herokuapp.com/'>Heroku</a>    
 """
