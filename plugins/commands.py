@@ -217,12 +217,12 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Master🤓", url="https://t.me/VIVEKTVP"),
+                    InlineKeyboardButton("Master🤓", url="https://t.me/DeepakV111"),
                     InlineKeyboardButton("About Me👨🏻‍🎓", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel📣", url="https://t.me/VKPROJECTS"),
-                    InlineKeyboardButton("Support Group💬", url="https://t.ME/VKP_BOTS")
+                    InlineKeyboardButton("BOT Channel📣", url="https://t.me/serieszOne3"),
+                    InlineKeyboardButton("BOT Group💬", url="https://t.ME/movieszzzone")
                 ]
             ]
         ),
@@ -248,12 +248,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Master🤓", url="https://t.me/VIVEK_KERALA"),
+                    InlineKeyboardButton("Master🤓", url="https://t.me/DeepakV111"),
                     InlineKeyboardButton("About Me👨🏻‍🎓", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel📣", url="https://t.me/VKPROJECTS"),
-                    InlineKeyboardButton("Support Group💬", url="https://t.ME/VKP_BOTS")
+                    InlineKeyboardButton("BOT Channel📣", url="https://t.me/serieszOne3"),
+                    InlineKeyboardButton("Support Group💬", url="https://t.ME/movieszzzone")
                 ]
             ]
         ),
