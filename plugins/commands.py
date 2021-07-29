@@ -221,7 +221,7 @@ async def start(client, message):
                     InlineKeyboardButton("About Me👨🏻‍🎓", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel📣", url="https://t.me/serieszOne3"),
+                    InlineKeyboardButton("Feedbacks📣", url="https://t.me/DeepakV1111-bot"),
                     InlineKeyboardButton("BOT Group💬", url="https://t.ME/movieszzzone")
                 ]
             ]
@@ -252,7 +252,7 @@ async def help(client, message):
                     InlineKeyboardButton("About Me👨🏻‍🎓", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel📣", url="https://t.me/serieszOne3"),
+                    InlineKeyboardButton("Feedbacks📣", url="https://t.me/DeepakV1111-bot"),
                     InlineKeyboardButton("Support Group💬", url="https://t.ME/movieszzzone")
                 ]
             ]
