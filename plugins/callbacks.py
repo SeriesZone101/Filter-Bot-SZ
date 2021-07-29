@@ -34,7 +34,7 @@ async def cb_handler(client, query):
                     InlineKeyboardButton("About Me👨🏻‍🎓", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("Feedbacks📣", url="https://t.me/DeepakV1111-bot"),
+                    InlineKeyboardButton("Feedbacks📣", url="https://t.me/DeepakV1111_bot"),
                     InlineKeyboardButton("BOT Group💬", url="https://t.ME/movieszzzone")
                 ]
             ]
@@ -52,7 +52,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Feedbacks📣", url="https://t.me/DeepakV1111-bot"),
+                    InlineKeyboardButton("Feedbacks📣", url="https://t.me/DeepakV1111_bot"),
                     InlineKeyboardButton("Group💬", url="https://t.me/movieszzzone")
                 ]
             ]
