@@ -19,9 +19,9 @@
   </a>  
 </p>
 
-[![VK PROJECTS](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![JOEY PROJECTS](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![VK PROJECTS](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/VKP_BOTS)  [![VK PROJECTS](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://t.me/VKPROJECTS)  
+[![JOEY PROJECTS](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/VKP_BOTS)  [![VK PROJECTS](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://t.me/DeepakV111)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/V-V-R-OFFICIAL/TG-Filter-BOT/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/V-V-R-OFFICIAL/TG-Filter-Bot)
 
